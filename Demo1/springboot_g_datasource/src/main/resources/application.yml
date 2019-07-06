@@ -1,8 +1,0 @@
-# jdbc连接数据库参数
-spring:
-  datasource:
-    url: jdbc:mysql://localhost:3306/day20
-    password: root
-    driver-class-name: com.mysql.jdbc.Driver
-    username: root
-    type: com.alibaba.druid.pool.DruidDataSource
