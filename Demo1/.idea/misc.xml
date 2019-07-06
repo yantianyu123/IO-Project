@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/springboot_f_jsp" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot_g_data" />
+    <file type="web" url="file://$PROJECT_DIR$/springboot_h_data_mybatis" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/springboot_a/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_b/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_c_logging/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_d_web/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_e/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_f_jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_g_datasource/pom.xml" />
+        <option value="$PROJECT_DIR$/springboot_h_data_mybatis/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectKey">
+    <option name="state" value="project://63537948-39a4-48a0-9c97-34259a0fa913" />
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

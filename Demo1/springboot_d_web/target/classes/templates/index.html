@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="/webjars/jquery/3.3.1/jquery.js"></script>
+</head>
+<body>
+    <input type="text" th:value="${a}" />
+    <input type="text" th:value="${#strings.toString(a)}" />
+    <hr/>
+    姓名：<input type="text" th:value="${map.name}"/><br/>
+    年龄：<input type="text" th:value="${map.age}"/><br/>
+    性别：<input type="text" th:value="${map.get('gender')}"/><br/>
+    <div th:insert="success.html"></div>
+    <script>
+        $(function () {
+            alert("欢迎来到首页！");
+        })
+    </script>
+</body>
+</html>
