@@ -13,6 +13,7 @@ public class Demo1_test {
     public void test1(){
         System.out.println("使用junit单元测试");
         System.out.println("使用junit单元测试");
+        System.out.println("使用junit单元测试");
     }
 }
 
